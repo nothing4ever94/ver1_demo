@@ -1,5 +1,5 @@
 
-status="Mr.Linhkool"
+status="..."
 var a=new Array(),n=""
 a[1]='Đ';
 a[2]='ú';
